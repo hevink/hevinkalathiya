@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hevin_69" target="blank"><img src="https://img.shields.io/twitter/follow/hevin_69?logo=twitter&style=for-the-badge" alt="hevin_69" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.hevin.site/](https://www.hevin.site/)
 
